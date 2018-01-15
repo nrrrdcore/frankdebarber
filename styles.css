@@ -1,3 +1,18 @@
 h1 {
-	color: #27AE60;
+  margin-top: 20px;
+  font-family: 'Magneton-BoldSlanted';
+  font-size: 80px;
+  color: #000;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-transform: optimizeLegibility;
+	/*color: #27AE60;
+  -webkit-background-clip: text;  
+  -webkit-text-fill-color: rgba(0, 0, 0, 0);
+  background-attachment: scroll;
+  background-clip: text;
+  background-color: rgb(255, 255, 255);
+  background-image: url(http://lorempixel.com/800/400/abstract);
+  background-size: cover; */
 }
